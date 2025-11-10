@@ -4,7 +4,7 @@
   for NDA compliance. This code demonstrates structure and logic only.
 */
 
-// This firmware demonstrates low-power serial logging using UART_LOW_PWR, RTC_COUNTER, and DMA_ENGINE on the MCU_PLATFORMGG11 microcontroller.
+// This firmware demonstrates low-power serial logging using UART_LOW_PWR, RTC_COUNTER, and DMA_ENGINE on the MCU_PLATFORMXXYY microcontroller.
  // The system runs in EM2 low-energy mode and uses interrupt-driven peripherals to minimize CPU usage.
  // RTC_COUNTER is configured in counter mode with a DIV1 prescaler, providing 30.5 µs resolution per tick.
  // A 64-bit variable tracks total elapsed time in microseconds to prevent overflow.
