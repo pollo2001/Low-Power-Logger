@@ -1,8 +1,12 @@
 # Low-Power DMA UART Logger (Sanitized)
 
+### Attribution
+This sanitized example originates from firmware I developed at **Multiscale Ocean Dynamics (UC San Diego)**  
+for low-power embedded sensor platforms. All proprietary code, hardware constants, and device identifiers have been removed.
+
+### About
 This project demonstrates a **low-power data logging framework** for 32-bit microcontrollers.  
-The firmware captures fixed-length sensor packets using **DMA + interrupt-driven UART**, timestamps each packet with **microsecond precision**,  
-and stores the results in a ring buffer while remaining in a **deep-sleep mode** between events.
+The firmware captures fixed-length sensor packets using **DMA + interrupt-driven UART**, timestamps each packet with **microsecond precision**, and stores the results in a ring buffer while remaining in a **deep-sleep mode** between events.
 
 ---
 
