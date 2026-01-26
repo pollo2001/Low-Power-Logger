@@ -32,3 +32,10 @@ Vendor-specific register definitions and hardware constants have been replaced w
 A learning reference for:
 - Embedded engineers exploring **DMA, low-power modes, and real-time logging**.
 - IoT or environmental sensing applications where **long deployments and tight energy budgets** are critical.
+
+### Disclaimer
+This release is a **sanitized derivative** for demonstration and educational use only.  
+All proprietary firmware commands, hardware identifiers, and confidential data have been removed.
+
+### Development
+Developed by Genaro Salazar
